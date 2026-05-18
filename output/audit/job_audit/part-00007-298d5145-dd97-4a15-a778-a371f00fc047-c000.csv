@@ -1,0 +1,2 @@
+job_name,total_logs_processed,total_errors,total_warnings,slow_api_count,job_timestamp
+RealTimeLogAnalyticsJob,50,13,12,20,2026-05-18T00:35:22.571+05:30
